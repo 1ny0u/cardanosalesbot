@@ -1,0 +1,13 @@
+{
+  "policy": "455bf764ccc8b52ac881ee4518397bcab158bfb0c6f9410525402011",
+  "twitter_credentials": {
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAAF0thQEAAAAAd%2F436HvXwFSYgqB8l%2FkoZ%2F6%2BCQk%3DNiAabqehZc9svDmgydFBvQobBZrxBoGID3i8NMq7vXFIHIrwqT",
+    "consumer_key": "LJWUeQ8axB9aIsuiomwnL6n8Y",
+    "consumer_secret": "TDPu9Tm4UurYUFrLvgsdGIBfasw68wOC6XJR9z4xkJZ3PsOe8E",
+    "access_token": "1572230649876193284-O6qBUmwzNMpjIZ6LSTngD6EW6OYhWM",
+    "access_token_secret": "1WqexCzmzDl6QCPLTwuFW5w3LY2KNGPqkiXgEUXHGmqJu"
+  },
+  "tweet_text": "I'm very thankful [-n] just sold for [-p] ([-f]) [-i]",
+  "fiat_currency": "USD",
+  "TPS": 1
+}
